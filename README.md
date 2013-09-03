@@ -6,8 +6,9 @@ I try to go trough the whole process using GitHub, so the development process wo
 
 The project so far has the assets imported from the Unity3D Asset Store (so it might seem a bit heavy)
 
-Chapter 1
+[Chapter 1](https://github.com/neilus/Stealth/issues?milestone=1)
 ----------
+![ [1st Chapter header](https://github.com/neilus/Stealth/issues?milestone=1) ](http://panther.unity3d.com/sites/default/files/stealth-chapter1-thumb.jpg)
 - [x] [Stealth project Overview](http://unity3d.com/learn/tutorials/projects/stealth/project-overview)
 - [] [Game Setup and Lighting](http://unity3d.com/learn/tutorials/projects/stealth/game-setup-lighting)
 - [] [Alarm Lights](http://unity3d.com/learn/tutorials/projects/stealth/alarm-lights)
