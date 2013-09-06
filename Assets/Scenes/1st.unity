@@ -47459,10 +47459,6 @@ Transform:
   - {fileID: 1131552542}
   - {fileID: 735243931}
   - {fileID: 582158459}
-  - {fileID: 1131476726}
-  - {fileID: 1948219494}
-  - {fileID: 1588092430}
-  - {fileID: 32919859}
   - {fileID: 622115088}
   - {fileID: 10214337}
   - {fileID: 1343326843}
@@ -47514,6 +47510,10 @@ Transform:
   - {fileID: 948906758}
   - {fileID: 1643825629}
   - {fileID: 456271268}
+  - {fileID: 1131476726}
+  - {fileID: 1948219494}
+  - {fileID: 1588092430}
+  - {fileID: 32919859}
   m_Father: {fileID: 0}
 --- !u!1 &1784369584
 GameObject:
