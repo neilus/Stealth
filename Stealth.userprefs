@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Alarmlight.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Alarmlight.cs">
     <Files>
-      <File FileName="Assets\Alarmlight.cs" Line="21" Column="3" />
+      <File FileName="Assets\Scripts\Alarmlight.cs" Line="4" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
